@@ -5,6 +5,9 @@
 > **"Bagaimana kebiasaan belajar mempengaruhi nilai akhir siswa?"**  
 > Proyek ini menggunakan regresi dengan teknik ML untuk memprediksi nilai akhir siswa berdasarkan kebiasaan belajar seperti jam tidur, kehadiran, penyelesaian tugas, dan lainnya.
 
+### 🖼️ Preview Project
+![correlation](images/preview_project.png)
+
 ---
 
 ## 🔗 Dataset
