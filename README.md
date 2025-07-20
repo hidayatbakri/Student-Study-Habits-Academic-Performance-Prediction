@@ -93,6 +93,11 @@ cd Student-Study-Habits
 ```bash
 pip install -r requirements.txt
 ```
+
+### 3. Jalankan streamlit
+```bash
+streamlit run app.py
+```
 ---
 
 ## 📌 Dependencies
@@ -101,7 +106,8 @@ pip install -r requirements.txt
 - matplotlib
 - seaborn
 - scikit-learn
-
+- streamlit
+- joblib
 ---
 
 ### 📬 Kontak & Kredit
